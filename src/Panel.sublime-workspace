@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"timeToDestination"
+			],
+			[
+				"on",
+				"onTakeTaskClick"
+			],
+			[
+				"re",
+				"receivedTimeAPI"
+			],
+			[
+				"is",
+				"isFinished"
+			],
+			[
+				"i",
+				"isLoading"
+			],
+			[
+				"t",
+				"then"
+			],
+			[
+				"res",
+				"resTask"
+			],
+			[
+				"mock",
+				"mocktext"
+			],
+			[
+				"un",
+				"unfinishedTasks"
+			],
+			[
+				"Ta",
+				"TaskItemComplete"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"do",
+				"doneTask"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ACER/team-08/src/TaskItemComplete.js",
+		"/C/Users/ACER/team-08/src/TaskButton.js",
+		"/C/Users/ACER/team-08/src/Panel.js",
+		"/C/Users/ACER/team-08/src/TaskItem.js",
+		"/C/Users/ACER/team-08/src/TimeDisplay.js",
+		"/C/Users/ACER/team-08/src/taskItem.css",
+		"/C/Users/ACER/Desktop/taskAction.js",
+		"/C/Users/ACER/Desktop/TaskItem.js",
+		"/C/Users/ACER/team-08/src/taskAction.js",
+		"/C/Users/ACER/team-08/src/Panel.css",
+		"/C/Users/ACER/team-08/src/Home.js",
+		"/C/Users/ACER/team-08/src/doneButton.js",
+		"/C/Users/ACER/team-08/src/App.js",
+		"/C/Users/ACER/team-08/src/firebaseConfig.js",
+		"/C/Users/ACER/team-08/src/Panel.test.js",
+		"/C/Users/ACER/team-08/src/logfile.js",
+		"/C/Users/ACER/team-08/src/Tasklist.js",
+		"/C/Users/ACER/team-08/src/Tasklist",
+		"/C/Users/ACER/team08/src/App.css",
+		"/C/Users/ACER/team08/src/App.js",
+		"/C/Users/ACER/Desktop/DUX-EX2",
+		"/C/Users/ACER/team-08/test",
+		"/C/Users/ACER/Desktop/INTERNSHIP/Ericsson PW",
+		"/C/Users/ACER/Desktop/Ambassador/Blog_Potatoes",
+		"/C/Users/ACER/Desktop/Ambassador/Blog_Social media",
+		"/C/Users/ACER/Desktop/Mental model (Chapter 3)",
+		"/C/Users/ACER/Desktop/StudentAmbassador_Basecamp",
+		"/C/Users/ACER/Desktop/instagram",
+		"/C/Users/ACER/Desktop/Lectures for SQ/data.csv",
+		"/C/Users/ACER/Desktop/Group work ReqEngi/A1",
+		"/C/Users/ACER/Desktop/Group work ReqEngi/data.csv",
+		"/C/Users/ACER/Desktop/Lectures for SQ/Notes class 2 w1"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Panel.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
